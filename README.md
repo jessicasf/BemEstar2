@@ -22,7 +22,7 @@ Nos da “Bem-Estar” temos como objetivo criar uma solução para auxiliar nos
 * /treino
 * /exercicio
 
-## Link do video: 
+## Link do video: https://drive.google.com/drive/u/1/folders/12-HIlFdRrcmITLYKfRzVfqnrrLzYPOU-
 
 ## Participantes
 * Beatriz de Freitas Fernandes - RM95246
