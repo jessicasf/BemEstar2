@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'bemestar2'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_050053487D5448F994D5DFADA2D6EA9E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BBD581ED343847F79826390021E6A124 }}
           package: '*.jar'
